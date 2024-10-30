@@ -1,11 +1,11 @@
 # Super Scanner
 
-Open Scanner is a fast and powerful document scanning app for iPhone. 
+Super Scanner is a fast and powerful document scanning app for iPhone. 
 ## About the app
 
 ### What is Super Scanner?
 
-Open Scanner scans your receipts, notes, textbooks, and anything else you point your iPhone at.
+Super Scanner scans your receipts, notes, textbooks, and anything else you point your iPhone at.
 
 It saves your scans into its built-in library.
 
@@ -21,11 +21,6 @@ Super Scanner will prompt you for the following permissions:
 ### What data does Super Scanner collect?
 
 None.
-
-### Who made Super Scanner?
-
-[Kai Sun](https://github.com/GPTAlgoPro).
-
 
 ---
 
@@ -53,7 +48,3 @@ Super Scanner 会提示您以下权限：
 ### Super Scanner 收集哪些数据？
 
 无。
-
-### 谁开发了超级扫描仪？
-
-[孙凯](https://github.com/GPTAlgoPro)。
